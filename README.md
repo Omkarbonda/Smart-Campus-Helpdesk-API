@@ -35,7 +35,7 @@ A backend REST REST API for a Smart Campus Helpdesk system built with Django and
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Omkarbonda/Smart-Campus-Helpdesk-API
    cd <project-folder>
    ```
 
