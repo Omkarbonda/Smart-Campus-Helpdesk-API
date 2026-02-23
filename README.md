@@ -1,6 +1,6 @@
 # Smart Campus Helpdesk API
 
-A backend REST REST API for a Smart Campus Helpdesk system built with Django and Django REST Framework. Students can raise tickets (issues) and administrators can manage them.
+A backend REST API for a Smart Campus Helpdesk system built with Django and Django REST Framework. Students can raise tickets (issues) and administrators can manage them.
 
 ## Features
 
@@ -35,8 +35,8 @@ A backend REST REST API for a Smart Campus Helpdesk system built with Django and
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Omkarbonda/Smart-Campus-Helpdesk-API
-   cd <project-folder>
+   git clone https://github.com/Omkarbonda/Smart-Campus-Helpdesk-API.git
+   cd Smart-Campus-Helpdesk-API
    ```
 
 2. **Install Dependencies**:
